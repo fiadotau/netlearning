@@ -1,0 +1,14 @@
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\HelloLibrary.dll
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\HelloLibrary.pdb
+C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 1\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete

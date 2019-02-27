@@ -1,0 +1,9 @@
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\bin\Debug\netstandard2.0\HelloLibrary.deps.json
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\bin\Debug\netstandard2.0\HelloLibrary.dll
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\bin\Debug\netstandard2.0\HelloLibrary.pdb
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.csprojAssemblyReference.cache
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.AssemblyInfoInputs.cache
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.AssemblyInfo.cs
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.dll
+C:\Users\yauheni_fiadotau\source\repos\HelloLibrary\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.pdb
