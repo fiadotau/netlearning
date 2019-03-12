@@ -1,0 +1,7 @@
+C:\Users\yauheni_fiadotau\source\repos\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.csprojAssemblyReference.cache
+C:\Users\yauheni_fiadotau\source\repos\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.csproj.CoreCompileInputs.cache
+C:\Users\yauheni_fiadotau\source\repos\FileSystemVisitor\FileSystemVisitor\bin\Debug\FileSystemVisitor.exe.config
+C:\Users\yauheni_fiadotau\source\repos\FileSystemVisitor\FileSystemVisitor\bin\Debug\FileSystemVisitor.exe
+C:\Users\yauheni_fiadotau\source\repos\FileSystemVisitor\FileSystemVisitor\bin\Debug\FileSystemVisitor.pdb
+C:\Users\yauheni_fiadotau\source\repos\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.exe
+C:\Users\yauheni_fiadotau\source\repos\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.pdb
