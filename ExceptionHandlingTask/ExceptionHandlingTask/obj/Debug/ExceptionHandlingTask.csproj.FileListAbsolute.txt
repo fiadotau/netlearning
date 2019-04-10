@@ -1,7 +1,0 @@
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ExceptionHandlingTask\bin\Debug\ExceptionHandlingTask.exe.config
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ExceptionHandlingTask\bin\Debug\ExceptionHandlingTask.exe
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ExceptionHandlingTask\bin\Debug\ExceptionHandlingTask.pdb
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ExceptionHandlingTask\obj\Debug\ExceptionHandlingTask.csprojAssemblyReference.cache
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ExceptionHandlingTask\obj\Debug\ExceptionHandlingTask.csproj.CoreCompileInputs.cache
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ExceptionHandlingTask\obj\Debug\ExceptionHandlingTask.exe
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ExceptionHandlingTask\obj\Debug\ExceptionHandlingTask.pdb

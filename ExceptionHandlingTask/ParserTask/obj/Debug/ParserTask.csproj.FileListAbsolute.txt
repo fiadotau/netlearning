@@ -1,7 +1,0 @@
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ParserTask\bin\Debug\ParserTask.exe.config
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ParserTask\bin\Debug\ParserTask.exe
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ParserTask\bin\Debug\ParserTask.pdb
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ParserTask\obj\Debug\ParserTask.csprojAssemblyReference.cache
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ParserTask\obj\Debug\ParserTask.csproj.CoreCompileInputs.cache
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ParserTask\obj\Debug\ParserTask.exe
-C:\Users\yauheni_fiadotau\source\repos\C# Learning\Task 2\ExceptionHandlingTask\ParserTask\obj\Debug\ParserTask.pdb
