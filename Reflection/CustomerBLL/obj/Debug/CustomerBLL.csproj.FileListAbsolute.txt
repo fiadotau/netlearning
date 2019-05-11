@@ -1,0 +1,6 @@
+C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerBLL.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerBLL.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\Reflection\CustomerBLL\bin\Debug\CustomerBLL.dll
+C:\Users\OK\source\repos\Reflection\CustomerBLL\bin\Debug\CustomerBLL.pdb
+C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerBLL.dll
+C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerBLL.pdb
