@@ -1,9 +1,0 @@
-C:\Users\OK\source\repos\Reflection\CustomerBLL\bin\Debug\CustomerBLL.dll
-C:\Users\OK\source\repos\Reflection\CustomerBLL\bin\Debug\CustomerBLL.pdb
-C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerLibrary.csproj.CoreCompileInputs.cache
-C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerBLL.dll
-C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerBLL.pdb
-C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerLibrary.csprojAssemblyReference.cache
-C:\Users\OK\source\repos\Reflection\CustomerBLL\bin\Debug\Attributes.dll
-C:\Users\OK\source\repos\Reflection\CustomerBLL\bin\Debug\Attributes.pdb
-C:\Users\OK\source\repos\Reflection\CustomerBLL\obj\Debug\CustomerLibrary.csproj.CopyComplete
